@@ -1,3 +1,4 @@
+Lysozyme		Mouse		PFKAM_RAT	P47858		780
 Lysozyme		Chicken 	LYSC_CHICK 	P00698		147
 Lysozyme 		Human		LYSC_CHICK 	P61626		148
 Hemoglobin-alpha	Human		HBA_HUMAN  	P69905		142
